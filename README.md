@@ -2,6 +2,4 @@
 An epic toaster... with an epic button. <br />
 Nothing more to say.<br />
 
-<img width="677" alt="Screen Shot 2021-03-03 at 3 44 37 PM" src="https://user-images.githubusercontent.com/31784252/109869885-6f764700-7c37-11eb-84d4-98efb1ff2bd0.png">
-
-
+![corgieating](https://user-images.githubusercontent.com/31784252/109874070-a00caf80-7c3c-11eb-83e6-15b934f42b1a.jpeg)
