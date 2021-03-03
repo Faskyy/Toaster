@@ -1,5 +1,5 @@
 # Toaster
-An epic toaster... with an epic button. <br />
+An epic toaster... with an epic button. Just download the zip, open in any environment and run it. <br />
 Nothing more to say.<br />
 Nice. <br />
 
