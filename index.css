@@ -1,7 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 body {
-    background-color: #ffe066;
+    background-color: rgb(137, 215, 235);
     margin: 0;
     padding: 0;
+    place-items: center;
+    display: grid;
+}
+
+button{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    padding: 20px 45px;
+    background-color: transparent;
+    border: 5px solid #ffffff;
+    color: #ffffff;
+    letter-spacing: 1.5px;
+    border-radius: 50px;
+    cursor: pointer;
+    outline: none;
+    margin-right: 10px;
+    margin-top: 15px;
 }
 
 .myCanvas {
@@ -16,7 +38,7 @@ body {
 }
 
 .toaster{
-    background-color: #5abff2;
+    background-color: #c02f15;
     height: 90px;
     width: 120px;
     position: relative;
@@ -26,7 +48,7 @@ body {
 }
 
 .cover{
-    background-color: #99ddff;
+    background-color: #be3c32;
     height: 90px;
     width: 120px;
     border-radius: 20px 25px 0 0;
